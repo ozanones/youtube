@@ -1,0 +1,67 @@
+{
+	"meta": {
+		"charset": "utf-8",
+
+		"language": "en",
+		"plural": "(n != 1)"
+	},
+	"data": {
+		"": {
+			"Author": "Author",
+			"Back": "Back",
+			"Best": "Best",
+			"Cancel": "Cancel",
+			"Close Guide": "Close Guide",
+			"Exit": "Exit",
+			"Exit from app?": "Exit from app?",
+			"Guide": "Guide",
+			"In order to apply a new language, you must restart the application": "In order to apply a new language, you must restart the application",
+			"Interface language": "Interface language",
+			"Language": "Language",
+			"Live broadcasts are not supported": "Live broadcasts are not supported",
+			"Main": "Main",
+			"No videos": "No videos",
+			"Off": "Off",
+			"Ok": "Ok",
+			"On": "On",
+			"Search": "Search",
+			"Settings": "Settings",
+			"Video is not available": "Video is not available",
+			"Youtube": "Youtube",
+			"Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.": "Youtube.com is a world famous video hosting, which allows users to watch, upload and share videos with their friends.",
+			"ago": "ago",
+			"day": [
+				"day",
+				"days"
+			],
+			"hour": [
+				"hour",
+				"hours"
+			],
+			"minute": [
+				"minute",
+				"minutes"
+			],
+			"month": [
+				"month",
+				"months"
+			],
+			"second": [
+				"second",
+				"seconds"
+			],
+			"subscriber": [
+				"subscriber",
+				"subscribers"
+			],
+			"view": [
+				"view",
+				"views"
+			],
+			"year": [
+				"year",
+				"years"
+			]
+		}
+	}
+}
